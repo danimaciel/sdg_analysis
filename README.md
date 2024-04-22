@@ -4,7 +4,7 @@
 This repository contains a dataset related to the paper 'Connecting the dots: Assessing SDGs alignment across research funding, publications, and policy documents' submitted to STI 2024. It also includes an R script which can be used for data replication.
 
 ## Data Description
-The dataset includes 12 variables and 71.861 rows, which include information on articles generated from projects funded by FAPESP, collected from the Biblioteca Virtual.
+The dataset consists of 12 variables and 71,861 rows, featuring articles produced from projects funded by FAPESP and collected from the Biblioteca Virtual. FAPESP has classified these projects according to the Sustainable Development Goals (SDGs).
 
 ## Accessing the Data
 You can access the data through the following Google Drive link:
