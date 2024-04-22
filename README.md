@@ -8,7 +8,7 @@ The dataset includes 37 variables and 71861 lines, which inclues information reg
 
 ## Accessing the Data
 You can access the data through the following Google Drive link:
-[SDG Database](https://docs.google.com/spreadsheets/d/1jc8FE4mm5rVnTfG13MgHTsmag9ZNENis/edit?usp=sharing&ouid=108885149077301678625&rtpof=true&sd=true) # sdg_analysis
+[SDG Database](https://docs.google.com/spreadsheets/d/1geLktId1bYLj-_VKKuNtipb4TsD8i3B5/edit?usp=sharing&ouid=108885149077301678625&rtpof=true&sd=true) # sdg_analysis
 
 ## Contact
 For any further inquiries or assistance, please contact Daniela Maciel at daniela.maciel@embrapa.br.
