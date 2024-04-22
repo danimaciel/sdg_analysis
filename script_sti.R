@@ -3,7 +3,7 @@ lapply(pacotes, require, character.only = TRUE)
 
 setwd("C:/Users/danie/Projetos R/Fapesp/publicacoes_ods/Processados_Carol_Evandro")
 
-db <- read.xlsx("sdg_database.xlsx")
+db <- read.xlsx("sdg_database.xlsx", sheet = 1)
 
 comparar_ods <- function(ods_fapesp, ods_overton) {
   ods_fapesp <- ifelse(is.na(ods_fapesp) || ods_fapesp == "-", "", ods_fapesp)
